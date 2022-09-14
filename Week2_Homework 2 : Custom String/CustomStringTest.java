@@ -24,8 +24,6 @@ class CustomStringTest {
 		assertEquals("hello", this.myCustomString.getString());
 		
 		// TODO write at least 3 additional test cases 
-
-
 	}
 	
 	@Test
@@ -38,7 +36,6 @@ class CustomStringTest {
 		assertEquals("Good-bye!", this.myCustomString.getString());
 		
 		// TODO write at least 3 additional test cases 
-	
 	}
 	
 	@Test
